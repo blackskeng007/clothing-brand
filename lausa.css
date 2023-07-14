@@ -13,12 +13,7 @@
 
 
 
-/* body{
-    
-       background-image: url(IMG-20221218-WA0005.jpg);
-        background-repeat: no-repeat;
-        background-size: cover;
-    }  */
+
 
 
 
@@ -126,7 +121,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
- 
+   
     }
         .details {
             border-style: groove;
@@ -136,7 +131,7 @@
             padding-left: 30px;
              }
              .details:hover{ background-color: #1B0D40;
-                transition:7s;
+                transition:5900ms;
 
              }
 
@@ -372,7 +367,7 @@ color: blue;
  }
 
 
- @media screen and (max-width:768px) {
+ @media screen and (max-width:820px) {
 
     .logo-div{ 
         width: 150px;
