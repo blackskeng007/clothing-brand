@@ -246,8 +246,8 @@ border-radius: 2%;
 
 .services div:hover{
  transform: scale(2);
- transition: 5s;
- transition-duration: 2s;   
+ transition: 7s;
+ transition-duration: 10s;   
 }
 
 .ornaments{
@@ -261,8 +261,9 @@ padding-bottom: 100px;
 }
 
   .ornaments div:hover{
-    transform: rotate(-360deg);
-    transition: 3S;
+    transform: scale(2);
+    transition: 7S;
+    transition-duration: 10s;
   }
 
 .ornaments a{
